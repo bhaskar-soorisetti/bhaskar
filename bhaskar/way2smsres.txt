@@ -1,0 +1,6 @@
+test passed for valid data 
+test passed for blank password
+test passed for invalid password
+test passed for blank mobile number
+test passed for wrong size mobile number
+test passed for invalid mobile number

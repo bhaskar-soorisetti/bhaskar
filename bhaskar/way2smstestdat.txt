@@ -1,0 +1,6 @@
+9059565703,valid,5703,valid
+9059565703,valid,,invalid
+9059565703,valid,mindq,invalid
+,invalid,5703,valid
+9059,invalid,5703,valid
+8919449885,invalid,5703,valid
